@@ -31,7 +31,7 @@ These documents outline the work you need to carry out each week. You will be wo
 
 
 - [Submission Point 4](1_Prototyping/README.md) - Prototyping
-- [Submission Point 5](2_Build.md) - Building the website
+- [Submission Point 5](2_Build/README.md) - Building the website
 - [Submission Point 6](3_Quality_assurance/README.md) - Quality assurance
 
 
