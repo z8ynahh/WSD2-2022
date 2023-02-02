@@ -6,45 +6,9 @@ SP4 is a collection of documents resulting from the web development processes un
 
 Formative feedback on these documents will be provided during your weekly meeting with the tutors, enabling you to make amendments before final submission.
 
-The following documents should be presented:
+The following document should be presented:
 
-- [Mood boards](#mood-boards)
-- [Style Guide](#style-guide)
 - [Page Design](#page-design)
-
-## Mood boards
-
-To kick off the design process, each team member should create a mood board to collate influences and ideas for their design. The influences may be digital or physical and might include elements such as colour and typography.
-
-> &ldquo;Mood boards are visually stunning collections of ideas, full of textures and images that communicate the vision of a designer at the start of a project.&rdquo;
-
-Read the article [20 pro tips for creating inspirational mood boards](https://www.creativebloq.com/graphic-design/mood-boards-812470) before starting.
-
-You can create your mood board any way that suits: photoshop, powerpoint, pinterest or even a physical item.
-
-Once you have shared your ideas and inspirations through your individual mood board, create a team mood board that reflects the ideas and inspirations you want to take forward into your designs.
-
-For this submission output your mood boards as per the personas report. Add to the following file:
-
-> Document: [mood-boards.md](mood-boards.md).
-
----
-
-## Style Guide
-
-> &ldquo;We all know that feeling: some time after we launch a site, new designers and developers come in and make adjustments. They add styles that don’t fit with the content, use typefaces that make us cringe, or chuck in bloated code. But if we didn’t leave behind any documentation, we can’t really blame them for messing up our hard work.
->
-> To counter this problem, graphic designers are often commissioned to produce style guides as part of a re-branding project. A style guide provides details such as how much white space should surround a logo, which typefaces and colours a brand uses, along with when and where it is appropriate to use them.&rdquo; [Anna Debenham](https://24ways.org/2011/front-end-style-guides/).
-
-Create a style guide for the Guide using the template provided. Use colour, typography and media that best represents the brand of your guide (based on your moodboards).
-
-To better understand [style guides see some examples at styleguides.io](http://styleguides.io/).
-
-**Note** - It is likely that both the colour and typography will change over the life of the project. Ensure that the style guide is kept up to date to reflect the final design of the guide presented for SP5.
-
-> Document: [style-guide.md](style-guide.md)
-
----
 
 ## Page design
 
