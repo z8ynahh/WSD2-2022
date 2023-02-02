@@ -29,12 +29,10 @@ You will be submitting this repository which will contain your completed Portfol
 
 These documents outline the work you need to carry out each week. You will be working on these in class and in your own time. If you have any questions about these tasks, please ask us.
 
-- [Submission Point 1](1_User_and_competitor_research/README.md) - Ideation & user research
-- [Submission Point 2](2_Information_architecture/README.md) - Information architecture
-- [Submission Point 3](3_Content_strategy/README.md) - Content strategy & writing for the web
-- [Submission Point 4](4_Design_and_prototyping/README.md) - Design and Prototyping
-- [Submission Point 5](5_Group-x-website/README.md) - Building the website
-- [Submission Point 6](6_Quality_assurance/README.md) - Quality assurance
+
+- [Submission Point 4](1_Prototyping/README.md) - Prototyping
+- [Submission Point 5](2_Build.md) - Building the website
+- [Submission Point 6](3_Quality_assurance/README.md) - Quality assurance
 
 
 ## Project Management
