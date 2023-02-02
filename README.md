@@ -11,21 +11,7 @@
 - Student Name, [email address](mailto:myaddress@test.com)
 - Student Name, [email address](mailto:myaddress@test.com)
 
-## Assessment overview
-
-- Come up with an idea that’s [relevant to the brief](the-brief.md).
-- [Create these documents](portfolio.md) to document why the website you will make works the way it does and why it has the content and design you’ve added to it.
-- Make a prototype of the website that looks good and works well.
-
-## Longer Assessment overview
-
-> **IMPORTANT - [Read the assignment overview - The brief](the-brief.md)**.
-
-The portfolio contains a variety of elements to be completed including the proposal, site plan, moodboards, quality audit and many other tools for site development. These are collected together into smaller sub-portfolios called submission points. Each teaching week we will review these documents, providing feedback and allowing you to make improvements. They will not be assessed until the submission at the end of the unit.
-
-You will be submitting this repository which will contain your completed Portfolio and Guide website. All the elements are listed and should be [linked from portfolio.md](portfolio.md) to make your work easier to mark. **Use the list of documents on that page as a checklist prior to submission.**
-
-## Submission point briefings
+## Submission points
 
 These documents outline the work you need to carry out each week. You will be working on these in class and in your own time. If you have any questions about these tasks, please ask us.
 
