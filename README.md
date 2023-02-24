@@ -6,7 +6,7 @@
 
 ### Team members
 
-- Student Name, [email address](mailto:myaddress@test.com)
+- Zaynah Farhaan, [email address](mailto:myaddress@test.com)
 - Student Name, [email address](mailto:myaddress@test.com)
 - Student Name, [email address](mailto:myaddress@test.com)
 - Student Name, [email address](mailto:myaddress@test.com)
