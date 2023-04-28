@@ -2,11 +2,11 @@
 
 <!-- Complete these first two sections. -->
 
-## Your Team number and name
+## Group 1
 
 ### Team members
 
-- Student Name, [email address](mailto:myaddress@test.com)
+- Jacob Harris, [21308557@stu.mmu.ac.uk]
 - Student Name, [email address](mailto:myaddress@test.com)
 - Student Name, [email address](mailto:myaddress@test.com)
 - Student Name, [email address](mailto:myaddress@test.com)
